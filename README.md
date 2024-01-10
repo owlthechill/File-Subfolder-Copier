@@ -27,7 +27,7 @@ This simple Python program is designed to copy a list of source files from a com
     python copy_files.py
     ```
 
-4. Follow the on-screen prompts to provide the list of source files, set the source folder, destination folder, and specify the depth.
+4. Follow the on-screen prompts to provide the list of source files, destination folder, and specify the depth.
 
 ## Example
 
