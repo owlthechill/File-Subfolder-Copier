@@ -13,6 +13,7 @@ This simple Python program is designed to copy a list of source files from a com
 - Python 3.x
 - `shutil` library (included in the Python standard library)
 - `rich` library (version 13.7.0, not included in the Python standard library)
+- `tkinter` library (not included in the Python standard library)
 
 ## Usage
 
